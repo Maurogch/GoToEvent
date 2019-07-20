@@ -1,5 +1,7 @@
 # GoToEvent
 
+> This is a copy of the original repo: https://github.com/kenokaicer/kanpachian
+
 This is a project for the subjects "Laboratory 4" and "Systems Metodology I" for the degree "Senior Technician in Programming".\
 A website for online managment and sale of recreational events, the site would allow an administrator to load events, dates, seats for each event, and all info requied to make a sale.\
 The user can register/login and purchase a ticket for an event online.
